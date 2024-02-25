@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+.hero{
+	display: flex;
+		justify-content: center; 
+	align-items: center;
+}
+#photo{
+	width: 350px;
+	height: 200px;
+	object-fit: 10px;
+}
+#but{
+	padding: 5px;
+	background-color: red;
+	color: white;
+	border-radius: 5px;
+	text-align: justify;
+}
+#head{
+	text-align: top;
+	width: 1000px
+}
+#abt{
+	position: bottom;
+}
